@@ -1,2 +1,2 @@
 this is a readme file.
-git is a free soft.
+Creatint a new branch is quick AND simple.
